@@ -1,0 +1,15 @@
+h1{
+    align-items: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ul{
+    display: block;
+    background-color: none;
+}*/
+.del{
+    background-color: red;
+    padding: auto;
+    margin-bottom: 0.5em;
+}
